@@ -27,7 +27,7 @@ $view->template('index')->render();
 Set template variables like this:
 ```php
 // Controller.php
-$myTtle = 'Great Website';
+$myTitle = 'Great Website';
 $this->view->template('index')
     ->set('title', $myTitle)
     ->render();
