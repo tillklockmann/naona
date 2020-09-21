@@ -24,7 +24,7 @@ Display the template with ``` render() ``` .
 ```php
 $view->template('index')->render();
 ```
-Set template variables like this:
+Set template variables  ``` set(string key, mixed value) ```
 ```php
 // Controller.php
 $myTitle = 'Great Website';
