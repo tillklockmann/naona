@@ -2,7 +2,7 @@
 A really simple template engine.
 ## install with composer
 ```  
-composer require tillklockmann\naona:1.0.1
+composer require tillklockmann/naona:1.0.1
 ``` 
 
 ## usage
